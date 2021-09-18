@@ -7,6 +7,7 @@ on:
 
 jobs:
   build:
+      collor: "red"
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
