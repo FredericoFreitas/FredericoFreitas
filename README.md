@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning: _**Pyhon** **Blender**_
-- Há algum tempo atrás eu _**Frederico Hallamman**_, era apenas um simples usuario básico de computador;
-- hojé estou estudando: liguaguem de programação, modelagem, animação de objetos e já possuo um perfil no Github;
-- estou entusiasmado com cada processo que passei e estou passando.
+- 🌱 _I’m currently learning: **Pyhon** **Blender**_
+- _Há algum tempo atrás eu _**Frederico Hallamman**_, era apenas um simples usuario básico de computador;_
+- _hojé estou estudando: liguaguem de programação, modelagem, animação de objetos e já possuo um perfil no Github;_
+- _estou entusiasmado com cada processo que passei e estou passando._
 - 
 -->
 <div>
