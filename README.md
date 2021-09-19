@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning: **Pyhon** **Blender**
-- Há algum tempo atrás eu _**Frederico Hallamman**_, era apenas um simples usuario básico de computador;
+- Há algum tempo atrás eu __**Frederico Hallamman**__, era apenas um simples usuario básico de computador;
 - hojé estou estudando: liguaguem de programação, modelagem, animação de objetos e já possuo um perfil no Github;
 - estou entusiasmado com cada processo que passei e estou passando.
 - 
