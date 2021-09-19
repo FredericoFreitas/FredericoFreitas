@@ -9,8 +9,8 @@
 -->
 <div>
   <a href="https://github.com/FredericoFreitas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FredericoFreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredericoFreitas&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FredericoFreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredericoFreitas&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
@@ -23,3 +23,10 @@
   
   ![Snake animation](https://github.com/FredericoFreitas/FredericoFreitas/blob/output/github-contribution-grid-snake.svg)
   </div>
+ 
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/fredericofreitas/count.svg" />
+ </p>
+
+</p>
