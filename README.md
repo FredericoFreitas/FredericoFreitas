@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning: _**Pyhon** **Blender**
+- 🌱 I’m currently learning: _**Pyhon** **Blender**_
 - Há algum tempo atrás eu _**Frederico Hallamman**_, era apenas um simples usuario básico de computador;
 - hojé estou estudando: liguaguem de programação, modelagem, animação de objetos e já possuo um perfil no Github;
 - estou entusiasmado com cada processo que passei e estou passando.
