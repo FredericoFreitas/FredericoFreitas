@@ -9,10 +9,10 @@
 -->
 <div>
  <a href="https://github.com/fredericofreitas">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=fredericofreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=fredericofreitas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
    
    <a href="https://github.com/fredericofreitas"> 
-   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredericofreitas&layout&langs_count=7&theme=dark"/>
+   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredericofreitas&layout&langs_count=7&theme=github_dark"/>
   </div>
  
   </div>
