@@ -9,12 +9,11 @@
 -->
 <div>
  <a href="https://github.com/fredericofreitas">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=fredericofreitas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-   
-   <a href="https://github.com/fredericofreitas"> 
-   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredericofreitas&layout&langs_count=7&theme=github_dark"/>
-  </div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredericofreitas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredericofreitas&layout=compact&langs_count=4&theme=github_dark"/>
+  
  
+  ## icones
   </div>
   <a href="https://github.com/fredericofreitas">
   <img align="center" alt="Fred-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
