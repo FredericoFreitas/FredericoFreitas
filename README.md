@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 
-- _Atualmente eu estou aprendendo: **Pyhon** **Blender**_
+- _Atualmente eu estou aprendendo: **Pyhon** _e_ **Blender**_;
+- _com tendencia para proximo curso de_: _**Javascript** ou **HTML**_;
 - _Há algum tempo atrás eu _**Frederico Hallamman**_, era apenas um simples usuario básico de computador;_
-- _hojé estou estudando: liguaguem de programação, modelagem, animação de objetos e já possuo um perfil no Github;_
-- _estou entusiasmado com cada processo que passei e estou passando._
+- _hojé estou estudando: liguaguem de programação, animação de objetos e ate mesmo já possuo um perfil no Github;_
+- _estou entusiasmado com cada aprendizado que passei e estou passando._
 
 ___
 
