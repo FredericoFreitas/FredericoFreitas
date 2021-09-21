@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- _Atualmente eu estou aprendendo: **Pyhon** _e_ **Blender**_;
-- _com tendencia para proximo curso de_: _**Javascript** ou **HTML**_;
-- _Há algum tempo atrás eu _**Frederico Hallamman**_, era apenas um simples usuario básico de computador;_
+- _:man_student: Atualmente eu estou aprendendo: **Pyhon** _e_ **Blender**_;
+- _:dart: Interessado em proximo curso de_: _**Javascript** 
+- _:fox_face: Há algum tempo atrás eu _**Frederico Hallamman**_, era apenas um simples usuario básico de computador;_
 - _hojé estou estudando: liguaguem de programação, animação de objetos e ate mesmo já possuo um perfil no Github;_
 - _estou entusiasmado com cada aprendizado que passei e estou passando._
 
@@ -20,9 +20,12 @@ ___
   </div>
 
  ___
+ ## Contact :iphone:
  
   <div>
+   <p align="center">
   <a href = "mailto:fredericohallamman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/frederico-hallamman-bb408716b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
    ___
