@@ -11,8 +11,8 @@ ___
 
 <div>
  <a href="https://github.com/fredericofreitas">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredericofreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredericofreitas&layout=compact&langs_count=4&theme=dark"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=fredericofreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredericofreitas&layout=compact&langs_count=4&theme=dark"/>
   
   </div>
   <a href="https://github.com/fredericofreitas">
