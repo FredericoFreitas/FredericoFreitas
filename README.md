@@ -27,17 +27,10 @@ ___
   <a href = "mailto:fredericohallamman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/frederico-hallamman-bb408716b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-   ___
-   
-  ![Snake animation](https://github.com/FredericoFreitas/FredericoFreitas/blob/output/github-contribution-grid-snake.svg)
-  </div>
- 
- ___
+  ___
  
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/fredericofreitas/count.svg" />
  </p>
-
 </p>
