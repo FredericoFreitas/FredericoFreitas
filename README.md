@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- _:man_student: Atualmente eu estou aprendendo: **Pyhon** _e_ **Blender**_;
-- _:dart: Interessado em proximo curso de_: _**Javascript** 
+- _:man_student: Atualmente eu estou aprendendo: **Pyhon** _e_ **Javascript**_;
+- _:dart: Interessado em proximo curso de:  
 - _:fox_face: Há algum tempo atrás eu _**Frederico Hallamman**_, era apenas um simples usuario básico de computador;_
 - _hojé estou estudando: liguaguem de programação, animação de objetos e ate mesmo já possuo um perfil no Github;_
 - _estou entusiasmado com cada aprendizado que passei e estou passando._
