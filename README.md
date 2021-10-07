@@ -2,9 +2,9 @@
 
 
 - _:man_student: Atualmente eu estou aprendendo: **Python** _e_ **Javascript**_;
-- _:dart: Interessado em proximo curso de:  _**C sharp**_
+- _:dart: Interessado em proximo curso de:  _**C#**_
 - _:fox_face: Há algum tempo atrás eu _**Frederico Hallamman**_, era apenas um simples usuario básico de computador;_
-- _hojé estou estudando: liguaguem de programação, animação de objetos e ate mesmo já possuo um perfil no Github;_
+- _hojé estou estudando: liguaguem de programação, animação de objetos e até mesmo já possuo um perfil no Github;_
 - _estou entusiasmado com cada aprendizado que passei e estou passando._
 
 ___
