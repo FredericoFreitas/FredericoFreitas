@@ -16,6 +16,7 @@ ___
   
   </div>
   <a href="https://github.com/fredericofreitas">
+    <img align="center" alt="Fred-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fred-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
 
