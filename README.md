@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-- _:man_student: Atualmente eu estou aprendendo: **Python** _e_ **Javascript**_;
-- _:dart: Interessado em proximo curso de:  _**C#**_
+- _:man_student: Atualmente eu estou aprendendo: **Python** _e_ **c**_;
+- _:dart: Interessado em proximo curso de:  _*c++*_ _e_ **shell**
 - _:fox_face: Há algum tempo atrás eu _**Frederico Hallamman**_, era apenas um simples usuario básico de computador;_
-- _hojé estou estudando: liguaguem de programação, animação de objetos e até mesmo já possuo um perfil no Github;_
+- _hojé estou estudando: liguaguem de programação, navegação/utilização de sitesmas com comandos;_
 - _estou entusiasmado com cada aprendizado que passei e estou passando._
 
 ___
